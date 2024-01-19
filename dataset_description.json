@@ -20,5 +20,5 @@
         "The bidscoin was used for bringing the mridata into the bids-format.",
         "https://github.com/Donders-Institute/bidscoin"
     ],
-    "DatasetDOI": "Kein DOI"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004937.v1.0.0"
 }
