@@ -1,1 +1,2 @@
 from data_loader import load_mri
+from data_visualization import plot_slices
